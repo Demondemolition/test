@@ -3,7 +3,7 @@
     "width": "container",
     "height": "container",
     "data": {
-        "url": "data/city_daily_cost.csv"
+        "url": "city_daily_cost.csv"
     },
     "mark": "bar",
     "encoding": {
